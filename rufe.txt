@@ -1,0 +1,14 @@
+
+
+install babel-cli
+yarn init
+local depency --> babel-preset-react,env
+
+run the file with babel and then watch argument
+ then use live-server 
+
+ h1-- indecision-app
+
+ delete node_module folder then
+    run the babel script again 
+    then again install all depemciesy by yarn install
