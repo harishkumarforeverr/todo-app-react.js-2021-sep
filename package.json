@@ -9,7 +9,7 @@
     "build": "webpack --watch",
     "build-babel": "babel src/app.js --out-file=public/src/app.js --presets=react,env --watch",
     "server": "live-server public/",
-    "dev-server": "webpack serve"
+    "dev-server": "webpack serve --hot"
   },
   "dependencies": {
     "@babel/core": "^7.15.5",
